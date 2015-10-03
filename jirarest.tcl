@@ -2,6 +2,8 @@
 # ############################################################################
 # Jira Utitlities <br />
 # @autor Mallikarjunarao Kosuri
+# @contact venkatamallikarjunarao.kosuri@adtran.com
+# @copyrights www.adtran.com
 # @version 1.0 <br />
 # ###########################################################################
 
